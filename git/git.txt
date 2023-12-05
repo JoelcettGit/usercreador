@@ -1,0 +1,2 @@
+Registra cambio realizados sobre un archivo o conjunto de archivos a lo largo del tiempo
+
